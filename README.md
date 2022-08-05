@@ -1,10 +1,10 @@
-# chat-form
 
-##Instalación 
+
+#Instalación 
 Puedes instalarlo desde npm
 `npm install`
 
-# Cómo se usa
+#Cómo se usa
 Para correr el proyecto de "chat-form"
 `npm run start`
 
